@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+.chartDiv {
+  display: flex;
+  flex-direction: column;
+  max-width: 100vw;
+  /* max-height: 200px; */
+  margin: 32px;
+  align-items: center;
+  justify-content: space-around;
+}
+.chartBox {
+  margin-bottom: 100px;
+  margin-top: 8px;
+}
+.headingTypo {
+  margin: 32px;
+  font-weight: 700;
+  font-size: 18px;
+  size: large;
+}

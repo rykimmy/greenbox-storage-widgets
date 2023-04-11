@@ -1,0 +1,3570 @@
+[
+	{
+		"id": 1,
+		"school": "Princeton",
+		"numItems": 6,
+		"monthlyCost": 992,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 2,
+		"school": "Harvard"
+	},
+	{
+		"id": 3,
+		"school": "Columbia"
+	},
+	{
+		"id": 4,
+		"school": "Dartmouth",
+		"numItems": 8,
+		"monthlyCost": 738,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 5,
+		"school": "Cornell"
+	},
+	{
+		"id": 6,
+		"school": "Dartmouth",
+		"numItems": 4,
+		"monthlyCost": 527,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 7,
+		"school": "Yale",
+		"numItems": 7,
+		"monthlyCost": 277,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 8,
+		"school": "Brown",
+		"numItems": 5,
+		"monthlyCost": 784,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 9,
+		"school": "Columbia"
+	},
+	{
+		"id": 10,
+		"school": "UPenn",
+		"numItems": 1,
+		"monthlyCost": 545,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 11,
+		"school": "Yale",
+		"numItems": 9,
+		"monthlyCost": 755,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 12,
+		"school": "Princeton",
+		"numItems": 7,
+		"monthlyCost": 964,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 13,
+		"school": "UPenn"
+	},
+	{
+		"id": 14,
+		"school": "Harvard"
+	},
+	{
+		"id": 15,
+		"school": "Dartmouth",
+		"numItems": 7,
+		"monthlyCost": 558,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 16,
+		"school": "UPenn"
+	},
+	{
+		"id": 17,
+		"school": "Columbia",
+		"numItems": 10,
+		"monthlyCost": 182,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 18,
+		"school": "Columbia"
+	},
+	{
+		"id": 19,
+		"school": "Harvard",
+		"numItems": 4,
+		"monthlyCost": 194,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 20,
+		"school": "Columbia",
+		"numItems": 1,
+		"monthlyCost": 749,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 21,
+		"school": "Harvard",
+		"numItems": 4,
+		"monthlyCost": 483,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 22,
+		"school": "Brown",
+		"numItems": 2,
+		"monthlyCost": 807,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 23,
+		"school": "Brown",
+		"numItems": 7,
+		"monthlyCost": 392,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 24,
+		"school": "Brown",
+		"numItems": 2,
+		"monthlyCost": 532,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 25,
+		"school": "Brown",
+		"numItems": 9,
+		"monthlyCost": 608,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 26,
+		"school": "Columbia",
+		"numItems": 1,
+		"monthlyCost": 570,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 27,
+		"school": "Cornell"
+	},
+	{
+		"id": 28,
+		"school": "Princeton",
+		"numItems": 5,
+		"monthlyCost": 745,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 29,
+		"school": "Brown",
+		"numItems": 3,
+		"monthlyCost": 197,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 30,
+		"school": "Princeton",
+		"numItems": 3,
+		"monthlyCost": 167,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 31,
+		"school": "Cornell",
+		"numItems": 3,
+		"monthlyCost": 812,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 32,
+		"school": "UPenn",
+		"numItems": 10,
+		"monthlyCost": 866,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 33,
+		"school": "Yale",
+		"numItems": 4,
+		"monthlyCost": 379,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 34,
+		"school": "Harvard",
+		"numItems": 3,
+		"monthlyCost": 661,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 35,
+		"school": "Princeton",
+		"numItems": 5,
+		"monthlyCost": 386,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 36,
+		"school": "Brown",
+		"numItems": 5,
+		"monthlyCost": 953,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 37,
+		"school": "Harvard",
+		"numItems": 9,
+		"monthlyCost": 739,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 38,
+		"school": "Princeton",
+		"numItems": 5,
+		"monthlyCost": 974,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 39,
+		"school": "Brown",
+		"numItems": 7,
+		"monthlyCost": 568,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 40,
+		"school": "Yale",
+		"numItems": 4,
+		"monthlyCost": 473,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 41,
+		"school": "Princeton"
+	},
+	{
+		"id": 42,
+		"school": "UPenn"
+	},
+	{
+		"id": 43,
+		"school": "Dartmouth",
+		"numItems": 2,
+		"monthlyCost": 764,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 44,
+		"school": "Yale",
+		"numItems": 4,
+		"monthlyCost": 868,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 45,
+		"school": "Princeton",
+		"numItems": 5,
+		"monthlyCost": 208,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 46,
+		"school": "Harvard",
+		"numItems": 8,
+		"monthlyCost": 886,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 47,
+		"school": "UPenn"
+	},
+	{
+		"id": 48,
+		"school": "Yale",
+		"numItems": 10,
+		"monthlyCost": 731,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 49,
+		"school": "Princeton",
+		"numItems": 3,
+		"monthlyCost": 337,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 50,
+		"school": "Harvard",
+		"numItems": 9,
+		"monthlyCost": 387,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 51,
+		"school": "Columbia"
+	},
+	{
+		"id": 52,
+		"school": "Columbia",
+		"numItems": 7,
+		"monthlyCost": 453,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 53,
+		"school": "Dartmouth"
+	},
+	{
+		"id": 54,
+		"school": "Harvard",
+		"numItems": 6,
+		"monthlyCost": 407,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 55,
+		"school": "Yale",
+		"numItems": 7,
+		"monthlyCost": 250,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 56,
+		"school": "Columbia",
+		"numItems": 1,
+		"monthlyCost": 887,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 57,
+		"school": "Yale",
+		"numItems": 8,
+		"monthlyCost": 532,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 58,
+		"school": "Brown",
+		"numItems": 8,
+		"monthlyCost": 817,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 59,
+		"school": "Harvard",
+		"numItems": 7,
+		"monthlyCost": 198,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 60,
+		"school": "Harvard",
+		"numItems": 6,
+		"monthlyCost": 619,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 61,
+		"school": "Princeton",
+		"numItems": 4,
+		"monthlyCost": 857,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 62,
+		"school": "Columbia",
+		"numItems": 1,
+		"monthlyCost": 827,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 63,
+		"school": "Yale",
+		"numItems": 7,
+		"monthlyCost": 133,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 64,
+		"school": "Princeton",
+		"numItems": 4,
+		"monthlyCost": 690,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 65,
+		"school": "Cornell",
+		"numItems": 3,
+		"monthlyCost": 731,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 66,
+		"school": "Yale"
+	},
+	{
+		"id": 67,
+		"school": "Columbia",
+		"numItems": 10,
+		"monthlyCost": 182,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 68,
+		"school": "Cornell",
+		"numItems": 8,
+		"monthlyCost": 952,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 69,
+		"school": "Dartmouth",
+		"numItems": 3,
+		"monthlyCost": 465,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 70,
+		"school": "Princeton",
+		"numItems": 4,
+		"monthlyCost": 197,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 71,
+		"school": "Harvard",
+		"numItems": 7,
+		"monthlyCost": 416,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 72,
+		"school": "Columbia",
+		"numItems": 5,
+		"monthlyCost": 129,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 73,
+		"school": "Columbia",
+		"numItems": 8,
+		"monthlyCost": 994,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 74,
+		"school": "Brown"
+	},
+	{
+		"id": 75,
+		"school": "Cornell",
+		"numItems": 8,
+		"monthlyCost": 691,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 76,
+		"school": "Princeton",
+		"numItems": 6,
+		"monthlyCost": 805,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 77,
+		"school": "Columbia",
+		"numItems": 6,
+		"monthlyCost": 132,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 78,
+		"school": "Dartmouth",
+		"numItems": 10,
+		"monthlyCost": 647,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 79,
+		"school": "Dartmouth",
+		"numItems": 5,
+		"monthlyCost": 688,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 80,
+		"school": "Cornell",
+		"numItems": 9,
+		"monthlyCost": 730,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 81,
+		"school": "Princeton"
+	},
+	{
+		"id": 82,
+		"school": "Yale"
+	},
+	{
+		"id": 83,
+		"school": "Brown",
+		"numItems": 4,
+		"monthlyCost": 987,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 84,
+		"school": "Brown",
+		"numItems": 4,
+		"monthlyCost": 345,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 85,
+		"school": "Columbia",
+		"numItems": 8,
+		"monthlyCost": 634,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 86,
+		"school": "Princeton",
+		"numItems": 10,
+		"monthlyCost": 318,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 87,
+		"school": "Cornell",
+		"numItems": 8,
+		"monthlyCost": 103,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 88,
+		"school": "Harvard"
+	},
+	{
+		"id": 89,
+		"school": "Dartmouth",
+		"numItems": 3,
+		"monthlyCost": 135,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 90,
+		"school": "Harvard",
+		"numItems": 4,
+		"monthlyCost": 235,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 91,
+		"school": "Dartmouth"
+	},
+	{
+		"id": 92,
+		"school": "Columbia",
+		"numItems": 8,
+		"monthlyCost": 972,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 93,
+		"school": "UPenn",
+		"numItems": 2,
+		"monthlyCost": 471,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 94,
+		"school": "Brown",
+		"numItems": 7,
+		"monthlyCost": 639,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 95,
+		"school": "Brown",
+		"numItems": 1,
+		"monthlyCost": 946,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 96,
+		"school": "Harvard",
+		"numItems": 6,
+		"monthlyCost": 497,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 97,
+		"school": "Cornell"
+	},
+	{
+		"id": 98,
+		"school": "Princeton",
+		"numItems": 6,
+		"monthlyCost": 484,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 99,
+		"school": "Princeton"
+	},
+	{
+		"id": 100,
+		"school": "Dartmouth"
+	},
+	{
+		"id": 101,
+		"school": "Princeton",
+		"numItems": 3,
+		"monthlyCost": 680,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 102,
+		"school": "UPenn",
+		"numItems": 6,
+		"monthlyCost": 951,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 103,
+		"school": "Dartmouth",
+		"numItems": 3,
+		"monthlyCost": 589,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 104,
+		"school": "Brown",
+		"numItems": 1,
+		"monthlyCost": 352,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 105,
+		"school": "UPenn",
+		"numItems": 10,
+		"monthlyCost": 217,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 106,
+		"school": "Brown",
+		"numItems": 2,
+		"monthlyCost": 731,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 107,
+		"school": "Harvard",
+		"numItems": 8,
+		"monthlyCost": 154,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 108,
+		"school": "Dartmouth",
+		"numItems": 5,
+		"monthlyCost": 367,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 109,
+		"school": "Cornell",
+		"numItems": 1,
+		"monthlyCost": 109,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 110,
+		"school": "Columbia"
+	},
+	{
+		"id": 111,
+		"school": "Yale",
+		"numItems": 6,
+		"monthlyCost": 748,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 112,
+		"school": "Princeton"
+	},
+	{
+		"id": 113,
+		"school": "Yale"
+	},
+	{
+		"id": 114,
+		"school": "UPenn",
+		"numItems": 3,
+		"monthlyCost": 883,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 115,
+		"school": "Dartmouth",
+		"numItems": 5,
+		"monthlyCost": 467,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 116,
+		"school": "Brown",
+		"numItems": 10,
+		"monthlyCost": 498,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 117,
+		"school": "Cornell",
+		"numItems": 4,
+		"monthlyCost": 601,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 118,
+		"school": "Princeton"
+	},
+	{
+		"id": 119,
+		"school": "Yale",
+		"numItems": 10,
+		"monthlyCost": 540,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 120,
+		"school": "UPenn",
+		"numItems": 6,
+		"monthlyCost": 170,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 121,
+		"school": "UPenn",
+		"numItems": 1,
+		"monthlyCost": 658,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 122,
+		"school": "Dartmouth",
+		"numItems": 1,
+		"monthlyCost": 795,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 123,
+		"school": "UPenn",
+		"numItems": 5,
+		"monthlyCost": 514,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 124,
+		"school": "UPenn",
+		"numItems": 3,
+		"monthlyCost": 454,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 125,
+		"school": "Cornell"
+	},
+	{
+		"id": 126,
+		"school": "Princeton"
+	},
+	{
+		"id": 127,
+		"school": "Princeton",
+		"numItems": 2,
+		"monthlyCost": 952,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 128,
+		"school": "Columbia",
+		"numItems": 1,
+		"monthlyCost": 922,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 129,
+		"school": "Cornell",
+		"numItems": 4,
+		"monthlyCost": 969,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 130,
+		"school": "Columbia"
+	},
+	{
+		"id": 131,
+		"school": "Yale",
+		"numItems": 10,
+		"monthlyCost": 822,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 132,
+		"school": "Dartmouth",
+		"numItems": 7,
+		"monthlyCost": 190,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 133,
+		"school": "Brown",
+		"numItems": 7,
+		"monthlyCost": 127,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 134,
+		"school": "Harvard"
+	},
+	{
+		"id": 135,
+		"school": "Yale",
+		"numItems": 2,
+		"monthlyCost": 365,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 136,
+		"school": "Cornell",
+		"numItems": 7,
+		"monthlyCost": 102,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 137,
+		"school": "Dartmouth"
+	},
+	{
+		"id": 138,
+		"school": "UPenn"
+	},
+	{
+		"id": 139,
+		"school": "Columbia",
+		"numItems": 8,
+		"monthlyCost": 342,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 140,
+		"school": "Princeton",
+		"numItems": 8,
+		"monthlyCost": 721,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 141,
+		"school": "Princeton",
+		"numItems": 6,
+		"monthlyCost": 335,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 142,
+		"school": "Brown",
+		"numItems": 2,
+		"monthlyCost": 241,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 143,
+		"school": "Cornell",
+		"numItems": 9,
+		"monthlyCost": 841,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 144,
+		"school": "Yale"
+	},
+	{
+		"id": 145,
+		"school": "Columbia",
+		"numItems": 3,
+		"monthlyCost": 169,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 146,
+		"school": "Yale",
+		"numItems": 7,
+		"monthlyCost": 543,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 147,
+		"school": "Dartmouth",
+		"numItems": 6,
+		"monthlyCost": 193,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 148,
+		"school": "Yale",
+		"numItems": 9,
+		"monthlyCost": 742,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 149,
+		"school": "UPenn",
+		"numItems": 8,
+		"monthlyCost": 387,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 150,
+		"school": "Dartmouth",
+		"numItems": 9,
+		"monthlyCost": 436,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 151,
+		"school": "Dartmouth",
+		"numItems": 9,
+		"monthlyCost": 950,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 152,
+		"school": "Brown",
+		"numItems": 1,
+		"monthlyCost": 224,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 153,
+		"school": "Columbia",
+		"numItems": 1,
+		"monthlyCost": 245,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 154,
+		"school": "Princeton",
+		"numItems": 9,
+		"monthlyCost": 299,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 155,
+		"school": "Princeton",
+		"numItems": 10,
+		"monthlyCost": 263,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 156,
+		"school": "Princeton",
+		"numItems": 6,
+		"monthlyCost": 646,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 157,
+		"school": "Yale",
+		"numItems": 3,
+		"monthlyCost": 525,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 158,
+		"school": "Dartmouth"
+	},
+	{
+		"id": 159,
+		"school": "Yale",
+		"numItems": 9,
+		"monthlyCost": 332,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 160,
+		"school": "Columbia",
+		"numItems": 9,
+		"monthlyCost": 798,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 161,
+		"school": "Cornell"
+	},
+	{
+		"id": 162,
+		"school": "Columbia",
+		"numItems": 1,
+		"monthlyCost": 238,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 163,
+		"school": "Yale",
+		"numItems": 5,
+		"monthlyCost": 895,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 164,
+		"school": "Columbia"
+	},
+	{
+		"id": 165,
+		"school": "Yale",
+		"numItems": 2,
+		"monthlyCost": 111,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 166,
+		"school": "Dartmouth",
+		"numItems": 9,
+		"monthlyCost": 396,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 167,
+		"school": "Yale",
+		"numItems": 3,
+		"monthlyCost": 177,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 168,
+		"school": "UPenn",
+		"numItems": 4,
+		"monthlyCost": 982,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 169,
+		"school": "Yale",
+		"numItems": 3,
+		"monthlyCost": 419,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 170,
+		"school": "Harvard"
+	},
+	{
+		"id": 171,
+		"school": "Brown",
+		"numItems": 8,
+		"monthlyCost": 649,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 172,
+		"school": "Harvard"
+	},
+	{
+		"id": 173,
+		"school": "Cornell",
+		"numItems": 4,
+		"monthlyCost": 957,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 174,
+		"school": "Dartmouth"
+	},
+	{
+		"id": 175,
+		"school": "Brown",
+		"numItems": 10,
+		"monthlyCost": 108,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 176,
+		"school": "Harvard",
+		"numItems": 8,
+		"monthlyCost": 825,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 177,
+		"school": "Princeton",
+		"numItems": 1,
+		"monthlyCost": 391,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 178,
+		"school": "Brown"
+	},
+	{
+		"id": 179,
+		"school": "Princeton",
+		"numItems": 9,
+		"monthlyCost": 222,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 180,
+		"school": "Cornell",
+		"numItems": 8,
+		"monthlyCost": 437,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 181,
+		"school": "UPenn",
+		"numItems": 5,
+		"monthlyCost": 752,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 182,
+		"school": "UPenn",
+		"numItems": 10,
+		"monthlyCost": 735,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 183,
+		"school": "Dartmouth",
+		"numItems": 9,
+		"monthlyCost": 111,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 184,
+		"school": "Princeton",
+		"numItems": 1,
+		"monthlyCost": 755,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 185,
+		"school": "Harvard",
+		"numItems": 1,
+		"monthlyCost": 499,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 186,
+		"school": "Princeton"
+	},
+	{
+		"id": 187,
+		"school": "UPenn",
+		"numItems": 6,
+		"monthlyCost": 409,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 188,
+		"school": "Dartmouth",
+		"numItems": 1,
+		"monthlyCost": 858,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 189,
+		"school": "Cornell",
+		"numItems": 6,
+		"monthlyCost": 439,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 190,
+		"school": "Harvard",
+		"numItems": 7,
+		"monthlyCost": 878,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 191,
+		"school": "Yale",
+		"numItems": 1,
+		"monthlyCost": 706,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 192,
+		"school": "Princeton",
+		"numItems": 1,
+		"monthlyCost": 255,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 193,
+		"school": "Cornell",
+		"numItems": 8,
+		"monthlyCost": 920,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 194,
+		"school": "Princeton",
+		"numItems": 10,
+		"monthlyCost": 818,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 195,
+		"school": "Yale",
+		"numItems": 4,
+		"monthlyCost": 504,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 196,
+		"school": "Cornell",
+		"numItems": 5,
+		"monthlyCost": 544,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 197,
+		"school": "Yale",
+		"numItems": 8,
+		"monthlyCost": 854,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 198,
+		"school": "Cornell",
+		"numItems": 8,
+		"monthlyCost": 203,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 199,
+		"school": "Dartmouth",
+		"numItems": 9,
+		"monthlyCost": 530,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 200,
+		"school": "Dartmouth",
+		"numItems": 6,
+		"monthlyCost": 151,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 201,
+		"school": "Dartmouth",
+		"numItems": 10,
+		"monthlyCost": 128,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 202,
+		"school": "Brown",
+		"numItems": 6,
+		"monthlyCost": 310,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 203,
+		"school": "Dartmouth",
+		"numItems": 8,
+		"monthlyCost": 694,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 204,
+		"school": "Harvard",
+		"numItems": 6,
+		"monthlyCost": 354,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 205,
+		"school": "Princeton"
+	},
+	{
+		"id": 206,
+		"school": "Dartmouth",
+		"numItems": 1,
+		"monthlyCost": 222,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 207,
+		"school": "Brown"
+	},
+	{
+		"id": 208,
+		"school": "Dartmouth"
+	},
+	{
+		"id": 209,
+		"school": "Princeton",
+		"numItems": 9,
+		"monthlyCost": 489,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 210,
+		"school": "Princeton",
+		"numItems": 3,
+		"monthlyCost": 767,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 211,
+		"school": "Cornell",
+		"numItems": 1,
+		"monthlyCost": 911,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 212,
+		"school": "Princeton",
+		"numItems": 9,
+		"monthlyCost": 306,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 213,
+		"school": "Yale",
+		"numItems": 3,
+		"monthlyCost": 261,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 214,
+		"school": "Yale",
+		"numItems": 2,
+		"monthlyCost": 600,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 215,
+		"school": "Dartmouth",
+		"numItems": 1,
+		"monthlyCost": 855,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 216,
+		"school": "Columbia",
+		"numItems": 2,
+		"monthlyCost": 924,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 217,
+		"school": "Princeton",
+		"numItems": 6,
+		"monthlyCost": 830,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 218,
+		"school": "UPenn"
+	},
+	{
+		"id": 219,
+		"school": "Cornell",
+		"numItems": 10,
+		"monthlyCost": 105,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 220,
+		"school": "Cornell",
+		"numItems": 8,
+		"monthlyCost": 157,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 221,
+		"school": "Brown",
+		"numItems": 4,
+		"monthlyCost": 691,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 222,
+		"school": "Columbia",
+		"numItems": 1,
+		"monthlyCost": 720,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 223,
+		"school": "Dartmouth",
+		"numItems": 8,
+		"monthlyCost": 474,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 224,
+		"school": "Princeton",
+		"numItems": 8,
+		"monthlyCost": 787,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 225,
+		"school": "Princeton",
+		"numItems": 10,
+		"monthlyCost": 703,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 226,
+		"school": "Brown",
+		"numItems": 3,
+		"monthlyCost": 419,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 227,
+		"school": "Columbia",
+		"numItems": 6,
+		"monthlyCost": 968,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 228,
+		"school": "Princeton",
+		"numItems": 7,
+		"monthlyCost": 894,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 229,
+		"school": "Harvard"
+	},
+	{
+		"id": 230,
+		"school": "UPenn",
+		"numItems": 4,
+		"monthlyCost": 181,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 231,
+		"school": "Cornell",
+		"numItems": 1,
+		"monthlyCost": 480,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 232,
+		"school": "Cornell",
+		"numItems": 8,
+		"monthlyCost": 761,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 233,
+		"school": "Columbia",
+		"numItems": 10,
+		"monthlyCost": 251,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 234,
+		"school": "Columbia",
+		"numItems": 3,
+		"monthlyCost": 769,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 235,
+		"school": "Dartmouth",
+		"numItems": 5,
+		"monthlyCost": 953,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 236,
+		"school": "UPenn"
+	},
+	{
+		"id": 237,
+		"school": "Yale",
+		"numItems": 7,
+		"monthlyCost": 856,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 238,
+		"school": "Brown",
+		"numItems": 6,
+		"monthlyCost": 819,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 239,
+		"school": "UPenn",
+		"numItems": 8,
+		"monthlyCost": 734,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 240,
+		"school": "UPenn"
+	},
+	{
+		"id": 241,
+		"school": "Columbia"
+	},
+	{
+		"id": 242,
+		"school": "Harvard",
+		"numItems": 6,
+		"monthlyCost": 841,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 243,
+		"school": "Cornell",
+		"numItems": 1,
+		"monthlyCost": 139,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 244,
+		"school": "Cornell"
+	},
+	{
+		"id": 245,
+		"school": "UPenn",
+		"numItems": 2,
+		"monthlyCost": 109,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 246,
+		"school": "Princeton"
+	},
+	{
+		"id": 247,
+		"school": "Yale",
+		"numItems": 7,
+		"monthlyCost": 152,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 248,
+		"school": "Princeton",
+		"numItems": 3,
+		"monthlyCost": 562,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 249,
+		"school": "UPenn",
+		"numItems": 6,
+		"monthlyCost": 523,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 250,
+		"school": "Yale",
+		"numItems": 7,
+		"monthlyCost": 841,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 251,
+		"school": "Brown",
+		"numItems": 5,
+		"monthlyCost": 191,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 252,
+		"school": "Brown",
+		"numItems": 8,
+		"monthlyCost": 849,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 253,
+		"school": "Dartmouth",
+		"numItems": 4,
+		"monthlyCost": 577,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 254,
+		"school": "Yale",
+		"numItems": 1,
+		"monthlyCost": 562,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 255,
+		"school": "Dartmouth",
+		"numItems": 8,
+		"monthlyCost": 308,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 256,
+		"school": "Cornell"
+	},
+	{
+		"id": 257,
+		"school": "Cornell",
+		"numItems": 4,
+		"monthlyCost": 963,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 258,
+		"school": "Princeton",
+		"numItems": 2,
+		"monthlyCost": 950,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 259,
+		"school": "Harvard"
+	},
+	{
+		"id": 260,
+		"school": "Harvard",
+		"numItems": 6,
+		"monthlyCost": 185,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 261,
+		"school": "Harvard",
+		"numItems": 10,
+		"monthlyCost": 585,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 262,
+		"school": "Columbia",
+		"numItems": 10,
+		"monthlyCost": 893,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 263,
+		"school": "Princeton",
+		"numItems": 1,
+		"monthlyCost": 538,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 264,
+		"school": "Princeton",
+		"numItems": 3,
+		"monthlyCost": 741,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 265,
+		"school": "Harvard",
+		"numItems": 4,
+		"monthlyCost": 642,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 266,
+		"school": "Brown",
+		"numItems": 3,
+		"monthlyCost": 157,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 267,
+		"school": "Yale",
+		"numItems": 5,
+		"monthlyCost": 522,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 268,
+		"school": "Columbia"
+	},
+	{
+		"id": 269,
+		"school": "Yale",
+		"numItems": 3,
+		"monthlyCost": 423,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 270,
+		"school": "Columbia",
+		"numItems": 10,
+		"monthlyCost": 467,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 271,
+		"school": "Dartmouth",
+		"numItems": 9,
+		"monthlyCost": 995,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 272,
+		"school": "Cornell",
+		"numItems": 9,
+		"monthlyCost": 228,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 273,
+		"school": "Cornell",
+		"numItems": 1,
+		"monthlyCost": 713,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 274,
+		"school": "Yale"
+	},
+	{
+		"id": 275,
+		"school": "Princeton",
+		"numItems": 9,
+		"monthlyCost": 969,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 276,
+		"school": "Dartmouth",
+		"numItems": 10,
+		"monthlyCost": 360,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 277,
+		"school": "Harvard",
+		"numItems": 9,
+		"monthlyCost": 865,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 278,
+		"school": "Yale"
+	},
+	{
+		"id": 279,
+		"school": "Columbia",
+		"numItems": 3,
+		"monthlyCost": 625,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 280,
+		"school": "Columbia",
+		"numItems": 5,
+		"monthlyCost": 731,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 281,
+		"school": "Princeton",
+		"numItems": 2,
+		"monthlyCost": 171,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 282,
+		"school": "Princeton",
+		"numItems": 10,
+		"monthlyCost": 572,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 283,
+		"school": "Columbia",
+		"numItems": 1,
+		"monthlyCost": 998,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 284,
+		"school": "Princeton",
+		"numItems": 3,
+		"monthlyCost": 949,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 285,
+		"school": "Harvard",
+		"numItems": 7,
+		"monthlyCost": 638,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 286,
+		"school": "UPenn",
+		"numItems": 5,
+		"monthlyCost": 989,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 287,
+		"school": "UPenn",
+		"numItems": 7,
+		"monthlyCost": 765,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 288,
+		"school": "Yale"
+	},
+	{
+		"id": 289,
+		"school": "UPenn",
+		"numItems": 7,
+		"monthlyCost": 231,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 290,
+		"school": "Harvard",
+		"numItems": 10,
+		"monthlyCost": 336,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 291,
+		"school": "UPenn",
+		"numItems": 8,
+		"monthlyCost": 208,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 292,
+		"school": "Columbia",
+		"numItems": 8,
+		"monthlyCost": 874,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 293,
+		"school": "UPenn",
+		"numItems": 10,
+		"monthlyCost": 514,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 294,
+		"school": "Cornell",
+		"numItems": 3,
+		"monthlyCost": 736,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 295,
+		"school": "UPenn",
+		"numItems": 2,
+		"monthlyCost": 934,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 296,
+		"school": "Harvard",
+		"numItems": 8,
+		"monthlyCost": 902,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 297,
+		"school": "Yale",
+		"numItems": 2,
+		"monthlyCost": 535,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 298,
+		"school": "UPenn",
+		"numItems": 2,
+		"monthlyCost": 499,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 299,
+		"school": "Harvard",
+		"numItems": 3,
+		"monthlyCost": 137,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 300,
+		"school": "Harvard",
+		"numItems": 2,
+		"monthlyCost": 222,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 301,
+		"school": "UPenn"
+	},
+	{
+		"id": 302,
+		"school": "Harvard",
+		"numItems": 6,
+		"monthlyCost": 365,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 303,
+		"school": "Brown",
+		"numItems": 5,
+		"monthlyCost": 173,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 304,
+		"school": "Dartmouth",
+		"numItems": 5,
+		"monthlyCost": 335,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 305,
+		"school": "UPenn"
+	},
+	{
+		"id": 306,
+		"school": "Dartmouth",
+		"numItems": 2,
+		"monthlyCost": 123,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 307,
+		"school": "Princeton",
+		"numItems": 7,
+		"monthlyCost": 239,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 308,
+		"school": "Princeton",
+		"numItems": 9,
+		"monthlyCost": 198,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 309,
+		"school": "Brown",
+		"numItems": 9,
+		"monthlyCost": 591,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 310,
+		"school": "Dartmouth"
+	},
+	{
+		"id": 311,
+		"school": "Columbia",
+		"numItems": 3,
+		"monthlyCost": 563,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 312,
+		"school": "Princeton",
+		"numItems": 3,
+		"monthlyCost": 146,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 313,
+		"school": "Columbia"
+	},
+	{
+		"id": 314,
+		"school": "Harvard",
+		"numItems": 5,
+		"monthlyCost": 212,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 315,
+		"school": "Columbia",
+		"numItems": 10,
+		"monthlyCost": 224,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 316,
+		"school": "Brown",
+		"numItems": 4,
+		"monthlyCost": 767,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 317,
+		"school": "Dartmouth",
+		"numItems": 3,
+		"monthlyCost": 600,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 318,
+		"school": "Yale"
+	},
+	{
+		"id": 319,
+		"school": "Harvard",
+		"numItems": 1,
+		"monthlyCost": 488,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 320,
+		"school": "Dartmouth",
+		"numItems": 1,
+		"monthlyCost": 768,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 321,
+		"school": "Dartmouth"
+	},
+	{
+		"id": 322,
+		"school": "Columbia",
+		"numItems": 6,
+		"monthlyCost": 518,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 323,
+		"school": "Cornell",
+		"numItems": 2,
+		"monthlyCost": 217,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 324,
+		"school": "Brown",
+		"numItems": 9,
+		"monthlyCost": 335,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 325,
+		"school": "Dartmouth",
+		"numItems": 5,
+		"monthlyCost": 764,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 326,
+		"school": "UPenn"
+	},
+	{
+		"id": 327,
+		"school": "Yale"
+	},
+	{
+		"id": 328,
+		"school": "Princeton",
+		"numItems": 9,
+		"monthlyCost": 379,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 329,
+		"school": "Harvard",
+		"numItems": 3,
+		"monthlyCost": 751,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 330,
+		"school": "Harvard",
+		"numItems": 7,
+		"monthlyCost": 482,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 331,
+		"school": "Yale",
+		"numItems": 10,
+		"monthlyCost": 738,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 332,
+		"school": "Brown",
+		"numItems": 1,
+		"monthlyCost": 260,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 333,
+		"school": "Brown",
+		"numItems": 3,
+		"monthlyCost": 504,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 334,
+		"school": "Dartmouth",
+		"numItems": 9,
+		"monthlyCost": 509,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 335,
+		"school": "Cornell",
+		"numItems": 5,
+		"monthlyCost": 175,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 336,
+		"school": "Harvard",
+		"numItems": 3,
+		"monthlyCost": 959,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 337,
+		"school": "Yale"
+	},
+	{
+		"id": 338,
+		"school": "Yale",
+		"numItems": 5,
+		"monthlyCost": 930,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 339,
+		"school": "Harvard"
+	},
+	{
+		"id": 340,
+		"school": "Yale",
+		"numItems": 2,
+		"monthlyCost": 457,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 341,
+		"school": "Cornell",
+		"numItems": 8,
+		"monthlyCost": 247,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 342,
+		"school": "Columbia"
+	},
+	{
+		"id": 343,
+		"school": "UPenn",
+		"numItems": 6,
+		"monthlyCost": 859,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 344,
+		"school": "Yale",
+		"numItems": 3,
+		"monthlyCost": 418,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 345,
+		"school": "UPenn",
+		"numItems": 5,
+		"monthlyCost": 887,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 346,
+		"school": "Dartmouth"
+	},
+	{
+		"id": 347,
+		"school": "Brown",
+		"numItems": 9,
+		"monthlyCost": 428,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 348,
+		"school": "Brown",
+		"numItems": 4,
+		"monthlyCost": 620,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 349,
+		"school": "UPenn",
+		"numItems": 6,
+		"monthlyCost": 285,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 350,
+		"school": "Cornell",
+		"numItems": 3,
+		"monthlyCost": 461,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 351,
+		"school": "Dartmouth",
+		"numItems": 2,
+		"monthlyCost": 931,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 352,
+		"school": "Dartmouth",
+		"numItems": 10,
+		"monthlyCost": 463,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 353,
+		"school": "Brown",
+		"numItems": 10,
+		"monthlyCost": 810,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 354,
+		"school": "Columbia"
+	},
+	{
+		"id": 355,
+		"school": "Cornell"
+	},
+	{
+		"id": 356,
+		"school": "Dartmouth",
+		"numItems": 1,
+		"monthlyCost": 247,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 357,
+		"school": "UPenn",
+		"numItems": 8,
+		"monthlyCost": 953,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 358,
+		"school": "Yale"
+	},
+	{
+		"id": 359,
+		"school": "Harvard",
+		"numItems": 10,
+		"monthlyCost": 106,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 360,
+		"school": "Harvard",
+		"numItems": 10,
+		"monthlyCost": 987,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 361,
+		"school": "Yale"
+	},
+	{
+		"id": 362,
+		"school": "Harvard"
+	},
+	{
+		"id": 363,
+		"school": "UPenn",
+		"numItems": 2,
+		"monthlyCost": 943,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 364,
+		"school": "Princeton"
+	},
+	{
+		"id": 365,
+		"school": "Columbia",
+		"numItems": 10,
+		"monthlyCost": 402,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 366,
+		"school": "Harvard",
+		"numItems": 2,
+		"monthlyCost": 498,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 367,
+		"school": "Princeton",
+		"numItems": 7,
+		"monthlyCost": 594,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 368,
+		"school": "Cornell",
+		"numItems": 4,
+		"monthlyCost": 702,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 369,
+		"school": "Cornell",
+		"numItems": 3,
+		"monthlyCost": 351,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 370,
+		"school": "Dartmouth"
+	},
+	{
+		"id": 371,
+		"school": "Columbia",
+		"numItems": 10,
+		"monthlyCost": 288,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 372,
+		"school": "Cornell",
+		"numItems": 4,
+		"monthlyCost": 227,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 373,
+		"school": "UPenn"
+	},
+	{
+		"id": 374,
+		"school": "Brown",
+		"numItems": 3,
+		"monthlyCost": 953,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 375,
+		"school": "Yale"
+	},
+	{
+		"id": 376,
+		"school": "Harvard"
+	},
+	{
+		"id": 377,
+		"school": "Cornell",
+		"numItems": 9,
+		"monthlyCost": 419,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 378,
+		"school": "Columbia",
+		"numItems": 6,
+		"monthlyCost": 665,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 379,
+		"school": "Dartmouth",
+		"numItems": 1,
+		"monthlyCost": 780,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 380,
+		"school": "Columbia",
+		"numItems": 1,
+		"monthlyCost": 553,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 381,
+		"school": "Brown"
+	},
+	{
+		"id": 382,
+		"school": "Brown",
+		"numItems": 4,
+		"monthlyCost": 188,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 383,
+		"school": "Dartmouth",
+		"numItems": 9,
+		"monthlyCost": 148,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 384,
+		"school": "Dartmouth"
+	},
+	{
+		"id": 385,
+		"school": "Dartmouth",
+		"numItems": 2,
+		"monthlyCost": 411,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 386,
+		"school": "Cornell",
+		"numItems": 4,
+		"monthlyCost": 978,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 387,
+		"school": "Princeton",
+		"numItems": 5,
+		"monthlyCost": 680,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 388,
+		"school": "Yale",
+		"numItems": 3,
+		"monthlyCost": 984,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 389,
+		"school": "Columbia",
+		"numItems": 6,
+		"monthlyCost": 207,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 390,
+		"school": "Dartmouth"
+	},
+	{
+		"id": 391,
+		"school": "Harvard"
+	},
+	{
+		"id": 392,
+		"school": "Columbia",
+		"numItems": 8,
+		"monthlyCost": 543,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 393,
+		"school": "Brown",
+		"numItems": 6,
+		"monthlyCost": 263,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 394,
+		"school": "Yale"
+	},
+	{
+		"id": 395,
+		"school": "Dartmouth",
+		"numItems": 10,
+		"monthlyCost": 318,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 396,
+		"school": "Cornell"
+	},
+	{
+		"id": 397,
+		"school": "Cornell",
+		"numItems": 7,
+		"monthlyCost": 128,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 398,
+		"school": "Yale",
+		"numItems": 1,
+		"monthlyCost": 837,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 399,
+		"school": "Columbia"
+	},
+	{
+		"id": 400,
+		"school": "Princeton",
+		"numItems": 9,
+		"monthlyCost": 221,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 401,
+		"school": "Columbia",
+		"numItems": 9,
+		"monthlyCost": 325,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 402,
+		"school": "Princeton"
+	},
+	{
+		"id": 403,
+		"school": "Cornell",
+		"numItems": 6,
+		"monthlyCost": 359,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 404,
+		"school": "Princeton",
+		"numItems": 10,
+		"monthlyCost": 423,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 405,
+		"school": "Columbia",
+		"numItems": 5,
+		"monthlyCost": 774,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 406,
+		"school": "Princeton",
+		"numItems": 5,
+		"monthlyCost": 516,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 407,
+		"school": "Brown"
+	},
+	{
+		"id": 408,
+		"school": "Cornell",
+		"numItems": 6,
+		"monthlyCost": 285,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 409,
+		"school": "UPenn",
+		"numItems": 5,
+		"monthlyCost": 966,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 410,
+		"school": "Columbia"
+	},
+	{
+		"id": 411,
+		"school": "Yale",
+		"numItems": 6,
+		"monthlyCost": 724,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 412,
+		"school": "Dartmouth",
+		"numItems": 5,
+		"monthlyCost": 698,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 413,
+		"school": "Brown"
+	},
+	{
+		"id": 414,
+		"school": "Cornell",
+		"numItems": 8,
+		"monthlyCost": 116,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 415,
+		"school": "Brown",
+		"numItems": 3,
+		"monthlyCost": 827,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 416,
+		"school": "Princeton",
+		"numItems": 4,
+		"monthlyCost": 603,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 417,
+		"school": "Harvard",
+		"numItems": 7,
+		"monthlyCost": 556,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 418,
+		"school": "Columbia",
+		"numItems": 8,
+		"monthlyCost": 268,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 419,
+		"school": "Cornell",
+		"numItems": 5,
+		"monthlyCost": 373,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 420,
+		"school": "Cornell",
+		"numItems": 3,
+		"monthlyCost": 925,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 421,
+		"school": "Columbia",
+		"numItems": 9,
+		"monthlyCost": 316,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 422,
+		"school": "Princeton",
+		"numItems": 4,
+		"monthlyCost": 806,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 423,
+		"school": "UPenn",
+		"numItems": 6,
+		"monthlyCost": 955,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 424,
+		"school": "Yale",
+		"numItems": 1,
+		"monthlyCost": 943,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 425,
+		"school": "Princeton"
+	},
+	{
+		"id": 426,
+		"school": "Princeton",
+		"numItems": 2,
+		"monthlyCost": 723,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 427,
+		"school": "Princeton",
+		"numItems": 7,
+		"monthlyCost": 265,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 428,
+		"school": "Princeton",
+		"numItems": 5,
+		"monthlyCost": 377,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 429,
+		"school": "Yale",
+		"numItems": 2,
+		"monthlyCost": 383,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 430,
+		"school": "Harvard",
+		"numItems": 1,
+		"monthlyCost": 526,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 431,
+		"school": "Dartmouth",
+		"numItems": 5,
+		"monthlyCost": 130,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 432,
+		"school": "Yale",
+		"numItems": 10,
+		"monthlyCost": 696,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 433,
+		"school": "Brown"
+	},
+	{
+		"id": 434,
+		"school": "UPenn"
+	},
+	{
+		"id": 435,
+		"school": "Harvard",
+		"numItems": 10,
+		"monthlyCost": 103,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 436,
+		"school": "Brown"
+	},
+	{
+		"id": 437,
+		"school": "Dartmouth",
+		"numItems": 8,
+		"monthlyCost": 503,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 438,
+		"school": "Brown",
+		"numItems": 8,
+		"monthlyCost": 103,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 439,
+		"school": "UPenn"
+	},
+	{
+		"id": 440,
+		"school": "Brown",
+		"numItems": 8,
+		"monthlyCost": 524,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 441,
+		"school": "UPenn",
+		"numItems": 9,
+		"monthlyCost": 817,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 442,
+		"school": "UPenn",
+		"numItems": 4,
+		"monthlyCost": 755,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 443,
+		"school": "Cornell",
+		"numItems": 1,
+		"monthlyCost": 954,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 444,
+		"school": "UPenn",
+		"numItems": 6,
+		"monthlyCost": 308,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 445,
+		"school": "Cornell"
+	},
+	{
+		"id": 446,
+		"school": "UPenn"
+	},
+	{
+		"id": 447,
+		"school": "Yale",
+		"numItems": 9,
+		"monthlyCost": 760,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 448,
+		"school": "Harvard",
+		"numItems": 5,
+		"monthlyCost": 500,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 449,
+		"school": "Cornell"
+	},
+	{
+		"id": 450,
+		"school": "Cornell",
+		"numItems": 6,
+		"monthlyCost": 971,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 451,
+		"school": "Dartmouth",
+		"numItems": 1,
+		"monthlyCost": 189,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 452,
+		"school": "UPenn",
+		"numItems": 1,
+		"monthlyCost": 603,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 453,
+		"school": "Harvard",
+		"numItems": 2,
+		"monthlyCost": 992,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 454,
+		"school": "Brown",
+		"numItems": 3,
+		"monthlyCost": 485,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 455,
+		"school": "Cornell",
+		"numItems": 2,
+		"monthlyCost": 454,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 456,
+		"school": "Yale",
+		"numItems": 9,
+		"monthlyCost": 707,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 457,
+		"school": "UPenn",
+		"numItems": 8,
+		"monthlyCost": 263,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 458,
+		"school": "Dartmouth",
+		"numItems": 3,
+		"monthlyCost": 135,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 459,
+		"school": "Dartmouth",
+		"numItems": 6,
+		"monthlyCost": 513,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 460,
+		"school": "Princeton",
+		"numItems": 5,
+		"monthlyCost": 341,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 461,
+		"school": "Brown"
+	},
+	{
+		"id": 462,
+		"school": "Yale",
+		"numItems": 6,
+		"monthlyCost": 920,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 463,
+		"school": "Yale",
+		"numItems": 10,
+		"monthlyCost": 651,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 464,
+		"school": "Brown",
+		"numItems": 6,
+		"monthlyCost": 343,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 465,
+		"school": "Cornell",
+		"numItems": 10,
+		"monthlyCost": 437,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 466,
+		"school": "Dartmouth",
+		"numItems": 10,
+		"monthlyCost": 347,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 467,
+		"school": "Brown"
+	},
+	{
+		"id": 468,
+		"school": "Harvard",
+		"numItems": 1,
+		"monthlyCost": 905,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 469,
+		"school": "Dartmouth"
+	},
+	{
+		"id": 470,
+		"school": "UPenn",
+		"numItems": 1,
+		"monthlyCost": 619,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 471,
+		"school": "Cornell",
+		"numItems": 8,
+		"monthlyCost": 612,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 472,
+		"school": "Cornell",
+		"numItems": 10,
+		"monthlyCost": 240,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 473,
+		"school": "Yale",
+		"numItems": 5,
+		"monthlyCost": 198,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 474,
+		"school": "UPenn",
+		"numItems": 6,
+		"monthlyCost": 589,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 475,
+		"school": "Cornell",
+		"numItems": 10,
+		"monthlyCost": 635,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 476,
+		"school": "Brown",
+		"numItems": 5,
+		"monthlyCost": 570,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 477,
+		"school": "Harvard"
+	},
+	{
+		"id": 478,
+		"school": "Harvard",
+		"numItems": 1,
+		"monthlyCost": 113,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 479,
+		"school": "Brown",
+		"numItems": 5,
+		"monthlyCost": 434,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 480,
+		"school": "Harvard"
+	},
+	{
+		"id": 481,
+		"school": "Brown"
+	},
+	{
+		"id": 482,
+		"school": "Cornell",
+		"numItems": 10,
+		"monthlyCost": 359,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 483,
+		"school": "UPenn",
+		"numItems": 1,
+		"monthlyCost": 144,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 484,
+		"school": "Columbia"
+	},
+	{
+		"id": 485,
+		"school": "Yale",
+		"numItems": 8,
+		"monthlyCost": 872,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 486,
+		"school": "UPenn",
+		"numItems": 8,
+		"monthlyCost": 677,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 487,
+		"school": "Cornell",
+		"numItems": 3,
+		"monthlyCost": 649,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 488,
+		"school": "UPenn"
+	},
+	{
+		"id": 489,
+		"school": "Yale",
+		"numItems": 3,
+		"monthlyCost": 658,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 490,
+		"school": "Princeton",
+		"numItems": 4,
+		"monthlyCost": 985,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-04-01T04:00:00.000Z"
+	},
+	{
+		"id": 491,
+		"school": "Harvard",
+		"numItems": 10,
+		"monthlyCost": 989,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 492,
+		"school": "Princeton",
+		"numItems": 5,
+		"monthlyCost": 352,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 493,
+		"school": "Columbia",
+		"numItems": 4,
+		"monthlyCost": 511,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 494,
+		"school": "Dartmouth",
+		"numItems": 10,
+		"monthlyCost": 508,
+		"pickupDate": "2023-01-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 495,
+		"school": "Harvard",
+		"numItems": 10,
+		"monthlyCost": 688,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-05-01T04:00:00.000Z"
+	},
+	{
+		"id": 496,
+		"school": "Yale",
+		"numItems": 3,
+		"monthlyCost": 855,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 497,
+		"school": "UPenn"
+	},
+	{
+		"id": 498,
+		"school": "Harvard",
+		"numItems": 9,
+		"monthlyCost": 703,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-07-01T04:00:00.000Z"
+	},
+	{
+		"id": 499,
+		"school": "Harvard",
+		"numItems": 3,
+		"monthlyCost": 384,
+		"pickupDate": "2023-03-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	},
+	{
+		"id": 500,
+		"school": "UPenn",
+		"numItems": 1,
+		"monthlyCost": 971,
+		"pickupDate": "2023-02-01T05:00:00.000Z",
+		"returnDate": "2023-06-01T04:00:00.000Z"
+	}
+]
