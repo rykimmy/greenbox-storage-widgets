@@ -1,4 +1,5 @@
 import './App.css';
+import './styles.css';
 import React, { useState, useEffect } from 'react';
 import customers from './customers.json';
 import { Chart } from 'chart.js/auto';
@@ -19,6 +20,7 @@ function App() {
   const SchoolSelect = (props) => {
     return (
       <select
+        className="schoolSelect"
         value={props.school}
         onChange={(event) => setSchoolState(event.target.value)}
       >
@@ -178,12 +180,12 @@ function App() {
       {/* Title */}
       <Typography className='headingTypo' variant="h3" mt={4}>Greenbox Storage Widgets</Typography>
 
-      <Box className='chartDiv'>
+      {/* SCHOOL SELECT DROPDOWN OPTION */}
+      <SchoolSelect
+        school={schoolState}
+      />
 
-        {/* SCHOOL SELECT DROPDOWN OPTION */}
-        <SchoolSelect
-          school={schoolState}
-        />
+      <Box className='chartDiv'>
 
         {/* REVENUE CHART */}
         <Box className='chartBox'>
