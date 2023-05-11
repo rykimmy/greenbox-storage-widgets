@@ -1,4 +1,4 @@
-import './App.css';
+// import './App.css';
 import './styles.css';
 import React, { useState, useEffect } from 'react';
 import customers from './customers.json';
