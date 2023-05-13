@@ -4,12 +4,21 @@
 
 body {
     margin: 0;
+    background-color:rgb(245, 236, 210);
 }
 
 /* title */
 .headingTypo {
     font-weight: 700;
     size: large;
+
+    border-bottom: 2px solid;
+    padding-top: 4vh;
+    padding-bottom: 4vh;
+
+    background-color:rgb(117, 220, 170);
+
+    margin-top: 0;
 }
 
 /* all the charts */

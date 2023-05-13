@@ -4,7 +4,7 @@ import React, { useState, useEffect } from 'react';
 import customers from './customers.json';
 import { Chart } from 'chart.js/auto';
 import { Doughnut, Bar } from 'react-chartjs-2';
-import { Box, Table, TableCell, TableBody, TableContainer, TableHead, TableRow, Paper, Typography } from '@mui/material';
+import { Table, TableCell, TableBody, TableContainer, TableHead, TableRow, Paper } from '@mui/material';
 
 function App() {
 
@@ -178,31 +178,31 @@ function App() {
   return (
     <div className="App">
       {/* Title */}
-      <Typography className='headingTypo' variant="h3" mt={4}>Greenbox Storage Widgets</Typography>
+      <h1 className="headingTypo">Greenbox Storage Widgets</h1>
 
       {/* SCHOOL SELECT DROPDOWN OPTION */}
       <SchoolSelect
         school={schoolState}
       />
 
-      <Box className='chartDiv'>
+      <div className='chartDiv'>
 
         {/* REVENUE CHART */}
-        <Box className='chartBox'>
+        <div className='chartBox'>
           <Bar data={revenueChartData} />
-        </Box>
+        </div>
 
         {/* CONVERSION CHART */}
-        <Box className='chartBox'>
+        <div className='chartBox'>
           <Doughnut data={conversionChartData} options={{
             responsive: true,
             maintainAspectRatio: true,
           }} />
-          <Typography>Conversion Rate: {conversionRate}%</Typography>
-        </Box>
+          <h3>Conversion Rate: {conversionRate}%</h3>
+        </div>
 
         {/* PICKUP DATE CHART */}
-        <Box className='chartBox'>
+        <div className='chartBox'>
           <TableContainer component={Paper}>
             <Table sx={{ minWidth: 300 }} aria-label="simple table">
               <TableHead>
@@ -228,8 +228,8 @@ function App() {
               </TableBody>
             </Table>
           </TableContainer>
-        </Box>
-      </Box>
+        </div>
+      </div>
     </div>
   );
 }
