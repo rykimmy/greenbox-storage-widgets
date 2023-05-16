@@ -8,7 +8,7 @@ This is a coding challenge I completed for Greenbox Storage. The challenge was t
 
 ### Extra Comments
 
-This is one of three projects that I used to learn React.
+I came into this project with no background experience and used Youtube tutorials to learn as I coded.
 
 
 ## Available Scripts
