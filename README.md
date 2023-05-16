@@ -10,6 +10,10 @@ This is a coding challenge I completed for Greenbox Storage. The challenge was t
 
 https://drive.google.com/file/d/158npAfNyDZ_1Jq7LI99aWAcrokxrePEY/view?usp=sharing
 
+### Deployed Link
+
+https://greenbox-widgets.netlify.app/
+
 ### Extra Comments
 
 I came into this project with no background experience and used Youtube tutorials to learn as I coded.
