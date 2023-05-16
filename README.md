@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description
+
+This is a coding challenge I completed for Greenbox Storage. The challenge was to take data in a JSON file and visualize this data through particular widgets. This project uses React, HTML, and CSS.
+
+### Extra Comments
+
+This is one of three projects that I used to learn React.
+
 ## Available Scripts
 
 In the project directory, you can run:
