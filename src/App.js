@@ -14,7 +14,7 @@ function App() {
   const [conversionData, setConversionData] = useState([]);
   const [revenueData, setRevenueData] = useState([]);
   const [pickupData, setPickupData] = useState([]);
-  const [conversionRate, setConversionRate] = useState('')
+  const [conversionRate, setConversionRate] = useState('');
 
   // SCHOOL SELECT
   const SchoolSelect = (props) => {
@@ -106,18 +106,33 @@ function App() {
     // Iterate over the customer data and calculate the customers and items for each date
     data.forEach(customer => {
       if (customer.school === schoolState || schoolState === "All Schools") {
+        if (customer.pickupDate) {
+          const pickupDate = new Date(customer.pickupDate);
+          // const returnDate = new Date(customer.returnDate);
 
-        const pickupDate = new Date(customer.pickupDate);
-        const returnDate = new Date(customer.returnDate);
+          // Calculate the number of months between the pickup and return dates
+          // const months = (returnDate.getFullYear() - pickupDate.getFullYear()) * 12 + (returnDate.getMonth() - pickupDate.getMonth());
 
-        // Calculate the number of months between the pickup and return dates
-        const months = (returnDate.getFullYear() - pickupDate.getFullYear()) * 12 + (returnDate.getMonth() - pickupDate.getMonth());
+          // Get the items per customer
+          const items = customer.numItems;
 
-        // Get the items per customer
-        const items = customer.numItems;
+          // Iterate over dates to count items and customers
+          // for (let i = 0; i < months; i++) {
+          //   const dateUTC = new Date(pickupDate.setMonth(pickupDate.getMonth() + 1));
+          //   const day = dateUTC.getDate();
+          //   const year = dateUTC.getFullYear();
+          //   const month = dateUTC.getMonth();
+          //   const date = `${month}/${day}/${year}`;
+          //   const pickupItems = pickupInfo.find(item => item.date === date);
 
-        // Iterate over dates to count items and customers
-        for (let i = 0; i < months; i++) {
+          //   if (pickupItems) {
+          //     pickupItems.items += items;
+          //     pickupItems.customers += 1;
+          //   } else {
+          //     pickupInfo.push({ date, items, customers: 1 });
+          //   }
+          // }
+
           const dateUTC = new Date(pickupDate.setMonth(pickupDate.getMonth() + 1));
           const day = dateUTC.getDate();
           const year = dateUTC.getFullYear();
